@@ -187,7 +187,7 @@
 	},
 	{
 		"abr": "skillincrease",
-		"price": 200,
+		"price": 450,
 		"karmatype": "Good"
 	},
 	{
@@ -262,8 +262,8 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 600,
-		"karmatype": "Neutral"
+		"price": 900,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "levelskill",
@@ -272,7 +272,7 @@
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
