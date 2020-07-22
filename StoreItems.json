@@ -7086,6 +7086,60 @@
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
 	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "RGK_bedSingleGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "RGK_bedSingleBGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestclassydoublebed",
+		"price": 942,
+		"category": "Furniture",
+		"defname": "GL_ClassyDoubleBedGuest"
+	},
+	{
+		"abr": "guestcryptosleepsuspender",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "RGK_bedDoubleGuest"
+	},
+	{
+		"abr": "guestdoublebed2",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "RGK_bedDoubleBGuest"
+	}
 	],
-	"total": 1186
+	"total": 1199
 }
