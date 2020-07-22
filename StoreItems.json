@@ -2096,7 +2096,7 @@
 	},
 	{
 		"abr": "gardencoffee",
-		"price": 13,
+		"price": 125,
 		"category": "Sweets",
 		"defname": "Coffee"
 	},
@@ -6542,7 +6542,7 @@
 	},
 	{
 		"abr": "kevlar",
-		"price": 10,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "AM_Kevlar"
 	},
@@ -7064,7 +7064,7 @@
 	},
 	{
 		"abr": "yorkshireterrier",
-		"price": 167,
+		"price": 1200,
 		"category": "Animal",
 		"defname": "YorkshireTerrier"
 	},
@@ -7088,58 +7088,58 @@
 	},
 	{
 		"abr": "guestbed",
-		"price": 155,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BedGuest"
 	},
 	{
 		"abr": "guestbed",
-		"price": 155,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "RGK_bedSingleGuest"
 	},
 	{
 		"abr": "guestbed",
-		"price": 155,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "RGK_bedSingleBGuest"
 	},
 	{
 		"abr": "guestbedroll",
-		"price": 137,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "BedrollGuest"
 	},
 	{
 		"abr": "guestclassydoublebed",
-		"price": 942,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "GL_ClassyDoubleBedGuest"
 	},
 	{
 		"abr": "guestcryptosleepsuspender",
-		"price": 733,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Bed_CryptoBedGuest"
 	},
 	{
 		"abr": "guestdoublebed",
-		"price": 292,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "DoubleBedGuest"
 	},
 	{
 		"abr": "guestdoublebed",
-		"price": 292,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "RGK_bedDoubleGuest"
 	},
 	{
 		"abr": "guestdoublebed2",
-		"price": 292,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "RGK_bedDoubleBGuest"
-	}
+	},
 	],
 	"total": 1199
 }
